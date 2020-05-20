@@ -52,6 +52,6 @@ Scripts are written in bash
 - will get all running droplets
 - display snapshots of all running droplets
 - keep Latest seven number of snapshots retention
-- any snapshot older than seven days will be removed
+- any snapshot older than seven numbers will be removed
 - if the total snapshot number is equal to 7 then it'll let you know that total number of snapshot is equal to retention
 - or if total snapshot number is less then 7 then it'll let you know that it is under retention period
