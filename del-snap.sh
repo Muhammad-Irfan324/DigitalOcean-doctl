@@ -1,7 +1,7 @@
 ############## Author - Muhammad Irfan Tahir ###################
 
 ############# Displays Running Droplets and there specific snapshots
-############# Then Removes the snapshot of each droplet with 7 Days retention
+############# Then Removes the snapshot of each droplet with Number seven retention
 
 
 #!/bin/bash
